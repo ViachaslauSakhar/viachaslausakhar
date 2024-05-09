@@ -4,6 +4,8 @@
 
   ## Skills and Tools
   ![TestRail](https://img.shields.io/badge/TestRail-0e76a8?style=flat-square&logo=Testrail)
+  ![Jira](https://img.shields.io/badge/Jira-0e76a8?style=flat-square&logo=Jira)
+  ![Figma](https://img.shields.io/badge/Figma-0e76a8?style=flat-square&logo=Figma)
  
 
   ### Links
