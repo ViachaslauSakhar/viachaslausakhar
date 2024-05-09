@@ -4,6 +4,8 @@
 
   ## Skills and Tools
   ![TestRail](https://img.shields.io/badge/TestRail-0e76a8?style=flat-square&logo=Testrail)
+  ![Manual Testing](https://img.shields.io/badge/Manialtesting-0e76a8?style=flat-square&logo=manualtesting)
+  ![TestRail](https://img.shields.io/badge/TestRail-0e76a8?style=flat-square&logo=Testrail)
   
 
   ### Links
