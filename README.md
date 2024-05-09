@@ -12,7 +12,7 @@
   ![Qase](https://img.shields.io/badge/Qase-000000?style=flat-square&logo=Qase)
 
    ## Web Testing
-  ![ChromeDevTools](https://img.shields.io/badge/googlechrome-000000?style=flat-square&logo=googlechrome)
+  ![WebTools](https://img.shields.io/badge/WebTools-000000?style=flat-square&logo=googlechrome)
   ![Postman](https://img.shields.io/badge/Postman-000000?style=flat-square&logo=Postman)
   ![SoapUI](https://img.shields.io/badge/SoapUI-000000?style=flat-square&logo=Soap)
 
