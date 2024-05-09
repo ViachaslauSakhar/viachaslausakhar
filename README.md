@@ -3,7 +3,7 @@
   ## I'm a QA Engineer
 
   ## Skills and Tools
-  [![TestRail](https://img.shields.io/badge/TestRail-0e76a8?style=flat-square&logo=Testrail)]
+  ![TestRail](https://img.shields.io/badge/TestRail-0e76a8?style=flat-square&logo=Testrail)
   
 
   ### Links
