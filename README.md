@@ -3,15 +3,16 @@
   ## I'm a QA Engineer
 
   ## Skills and Tools
-  ![TestRail](https://img.shields.io/badge/TestRail-0e76a8?style=flat-square&logo=Testrail)
-  ![Jira](https://img.shields.io/badge/Jira-0e76a8?style=flat-square&logo=Jira)
-  ![Figma](https://img.shields.io/badge/Figma-0e76a8?style=flat-square&logo=Figma)
+  ![TestRail](https://img.shields.io/badge/TestRail-000000?style=flat-square&logo=Testrail)
+  ![Jira](https://img.shields.io/badge/Jira-000000?style=flat-square&logo=Jira)
+  ![Figma](https://img.shields.io/badge/Figma-000000?style=flat-square&logo=Figma)
+  ![Qase](https://img.shields.io/badge/Qase-000000?style=flat-square&logo=Qase)
  
 
   ### Links
-[![Linkedin](https://img.shields.io/badge/Linkedin-0e76a8?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/viachaslau-sakkhar)
-[![Telegram](https://img.shields.io/badge/Telegram-229ED9?style=flat-square&logo=Telegram)](http://t.me/mrskavik)
-[![Youtube](https://img.shields.io/badge/Youtube-c4302b?style=flat-square&logo=Youtube)](https://www.youtube.com/@CukarPlay)
+[![Linkedin](https://img.shields.io/badge/Linkedin-000000?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/viachaslau-sakkhar)
+[![Telegram](https://img.shields.io/badge/Telegram-000000?style=flat-square&logo=Telegram)](http://t.me/mrskavik)
+[![Youtube](https://img.shields.io/badge/Youtube-000000?style=flat-square&logo=Youtube)](https://www.youtube.com/@CukarPlay)
 
 ### 📁 Test documentation:
 
